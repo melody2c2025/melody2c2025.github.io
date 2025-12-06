@@ -135,18 +135,70 @@ Your artist profile automatically organizes:
 
 ## Feature Overview
 
-### Main Epics Implemented
+### Implemented Features
 
-1. **Users**: Registration, login (email/password + federated), password recovery
-2. **Profile**: View and edit user profiles, view other users
-3. **Artists**: Complete artist profiles with discography, collaborations, and metrics
-4. **Content**: Catalog exploration, search, detail views
-5. **Playback**: Full-featured player with queue, liked songs, video support
-6. **Library**: Playlists, liked songs, history
-7. **Notifications**: Push notifications with deep linking
-8. **Social**: Follow users, activity feed, sharing
-9. **AI Features**: Mood mixes, song radio, auto play, Fast Complete
-10. **Onboarding**: Genre and artist preferences for new users
+#### Users & Profile (Épica: Usuarios y Perfil)
+- ✅ Registration with email/password
+- ✅ Login with email/password
+- ✅ Login with Google (federated provider)
+- ✅ Password recovery
+- ✅ Profile editing
+- ✅ View own profile
+- ✅ View other users' profiles
+
+#### Artists (Épica: Artistas)
+- ✅ Artist profile with stats and bio
+- ✅ Discography: Popular (top 5), Albums, Singles & EPs
+- ✅ Collaborations (Appears On)
+- ✅ Artist profile management
+- ✅ Release publishing (singles, EPs, albums)
+- ✅ Song metrics (plays, likes, shares)
+- ✅ Album metrics
+- ✅ Artist metrics (monthly listeners, followers)
+
+#### Content Management - Admin (Épica: Adm. Contenido)
+- ✅ Catalog explorer with search
+- ✅ Content detail and traceability
+- ✅ State transitions and effective status
+- ✅ Block/unblock content with scope (global/regional)
+
+#### User Management - Admin (Épica: Adm. Usuarios)
+- ✅ List all users
+- ✅ View user profile details
+- ✅ Block/unblock users
+- ✅ User activity metrics with export
+
+#### Explore (Épica: Explorar)
+- ✅ Home: shortcuts, new releases from followed artists, recently played, discover more
+- ✅ Unified search by type (songs, albums, artists, playlists, profiles)
+- ✅ Navigate to detail views for all content types
+
+#### Playback (Épica: Reproducción)
+- ✅ Basic playback controls (play, pause, skip, previous)
+- ✅ Advanced controls (seek/scrub, repeat modes, shuffle)
+- ✅ Queue management (view, reorder, clear)
+- ✅ Like/unlike songs from player
+- ✅ Music video support (when available)
+
+#### Library (Épica: Biblioteca)
+- ✅ Create and manage playlists
+- ✅ Reorder playlist content (drag and drop)
+- ✅ Playback history
+- ✅ Liked Songs collection
+
+#### Social (Épica: Social)
+- ✅ Follow user profiles
+- ✅ View friends' activity with filters
+- ✅ Share songs and playlists (internal and external)
+
+#### Notifications (Épica: Notificaciones)
+- ✅ Push notifications for new content from followed artists
+- ✅ Notifications for activity from followed users
+- ✅ Deep linking: tap to navigate directly to content
+
+#### Onboarding (Épica: Onboarding)
+- ✅ Select favorite genres during first login
+- ✅ Select favorite artists during first login
 
 ---
 

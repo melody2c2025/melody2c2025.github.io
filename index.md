@@ -14,24 +14,24 @@ Ordena el caos infinito de música y lo convierte en algo simple. Canciones, col
 ## Características Principales
 
 ### Para Oyentes
-- **Exploración inteligente**: Lo que más te atrapa llega primero, lo nuevo se asoma en el momento justo
-- **Biblioteca personalizada**: Playlists, favoritos y tu historial de reproducción siempre a mano
-- **Recomendaciones IA**: Mood Mixes, radios personalizadas y autoplay inteligente
-- **Social**: Sigue a tus amigos, descubre qué escuchan y comparte tu música favorita
-- **Reproducción sin límites**: Cola de reproducción, controles avanzados y videos musicales
+- **Exploración y búsqueda**: Búsqueda unificada por canciones, álbumes, artistas y playlists
+- **Home personalizado**: Nuevos lanzamientos de artistas seguidos, contenido reciente y descubrimiento
+- **Biblioteca personal**: Crea y gestiona playlists, marca favoritos y revisa tu historial
+- **Reproducción completa**: Player con controles avanzados, gestión de cola y videos musicales
+- **Social**: Sigue usuarios y artistas, ve actividad de amigos y comparte contenido
+- **Notificaciones**: Alertas de nuevos lanzamientos con deep linking
+- **Onboarding personalizado**: Selecciona géneros y artistas favoritos al inicio
 
 ### Para Artistas
-- **Gestión de perfil**: Controla tu identidad visual, bio, redes y destacados
-- **Publicación de contenido**: Sube canciones, álbumes y EPs con programación de lanzamientos
-- **Discografía organizada**: Tu catálogo completo con Popular, Albums y Singles & EPs
-- **Fast Complete IA**: Autocompleta metadatos para agilizar la carga de contenido
-- **Métricas**: Visualiza el rendimiento de tus canciones y oyentes mensuales
+- **Perfil completo**: Gestiona identidad visual, bio y perfil público
+- **Publicación de lanzamientos**: Sube y programa singles, EPs y álbumes
+- **Discografía**: Muestra Popular, Albums, Singles & EPs y colaboraciones
+- **Métricas detalladas**: Visualiza rendimiento de canciones, álbumes y perfil
 
 ### Para Administradores
-- **Gestión de usuarios**: Control completo sobre usuarios y sus permisos
-- **Administración de contenido**: Supervisión del catálogo, disponibilidad y bloqueos
-- **Métricas de negocio**: Seguimiento de actividad, contenido más escuchado y KPIs
-- **Auditoría completa**: Trazabilidad de cambios en disponibilidad y bloqueos
+- **Gestión de usuarios**: Lista, visualiza perfiles y bloquea/desbloquea usuarios
+- **Administración de contenido**: Explora catálogo, gestiona disponibilidad y bloqueos con alcance
+- **Métricas**: Panel de métricas de usuarios con exportación
 
 ## Tecnologías
 

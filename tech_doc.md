@@ -9,7 +9,7 @@ description: Technical Documentation.
 The complete technical documentation for Melody is available below.
 
 You can access it via:
-- **Google Docs**: [**View Documentation**](#) _(add your link here)_
+- **Google Docs**: [**View Documentation**]
 - **Embedded viewer** (see below)
 
 ### Architecture Overview
@@ -45,6 +45,10 @@ The app is organized into specialized services:
 - `notificationService.ts`: Push notifications
 - `historyService.ts`: User listening history
 - `likedSongService.ts`: Liked songs management
+- `followService.ts`: User and artist following
+- `genreService.ts`: Genre management for onboarding
+- `discographyService.ts`: Artist discography and releases
+- `songService.ts`: Song operations
 
 #### Main Components
 
@@ -99,12 +103,20 @@ expo-user-management/
 4. **Supabase**: Database and auth
 5. **Storage**: Audio files and images
 
-#### AI Features
+### Features Implemented
 
-- **Fast Complete**: Metadata auto-completion using AI
-- **Mood Mixes**: AI-generated playlists
-- **Song Radio**: Similar song recommendations
-- **Auto Play**: Intelligent queue continuation
+#### Core Features
+- **User authentication**: Email/password + Google federated login
+- **Profile management**: Edit and view profiles (own and others)
+- **Artist profiles**: Complete profile with discography, popular tracks, and collaborations
+- **Content catalog**: Browse, search and manage content (admin)
+- **Playback**: Full player with queue, repeat, shuffle, seek controls
+- **Library**: Playlists, Liked Songs, and playback history
+- **Social**: Follow users/artists, view activity feed, share content
+- **Notifications**: Push notifications with deep linking
+- **Onboarding**: Genre and artist preferences for new users
+- **Metrics**: User, song, album, and artist metrics (admin)
+- **Videos**: Music video support for songs
 
 ### API Endpoints
 
