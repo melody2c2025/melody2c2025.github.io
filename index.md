@@ -9,7 +9,7 @@ description: About.
 </p>
 
 **Melody** es una plataforma de streaming de música que te ayuda a descubrir más y escuchar mejor.\
-Ordena el caos infinito de música y lo convierte en algo simple. Canciones, colecciones y playlists aparecen justo donde tienen que estar, con un catálogo que se acomoda como si te conociera desde siempre.
+
 
 ## Características Principales
 
@@ -36,10 +36,9 @@ Ordena el caos infinito de música y lo convierte en algo simple. Canciones, col
 ## Tecnologías
 
 La aplicación móvil está desarrollada con:
-- **React Native** con **Expo** para desarrollo multiplataforma
-- **TypeScript** para type safety
-- **Supabase** para autenticación y base de datos
-- **Gateway API** para comunicación con servicios backend
+- **React Native** con **Expo** 
+- **TypeScript** 
+- **Supabase** 
 
 ---
 
