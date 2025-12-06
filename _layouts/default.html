@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+<head>
+    <link rel="shortcut icon" type="image/x-icon" href="assets/logo.ico">
+    <meta charset="UTF-8">
+
+    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <title>Melody</title>
+</head>
+
+<body>
+<header class="page-header" role="banner">
+    <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+    <h2 class="project-tagline">
+        {{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+
+    <a href="/" class="btn">About</a>
+    <a href="manuals.html" class="btn">Guides & Manuals</a>
+    <a href="tech_doc.html" class="btn">Technical Documentation</a>
+    <a href="https://github.com/melody2c2025/" class="btn">View on GitHub</a>
+</header>
+
+<main id="content" class="main-content" role="main">
+    {{ content }}
+
+    <footer class="site-footer">
+            <span class="site-footer-owner"><a href="https://github.com/melody2c2025/">Melody</a> - 2025</span>
+    </footer>
+</main>
+</body>
+
+</html>
