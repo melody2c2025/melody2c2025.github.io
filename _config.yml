@@ -1,3 +1,10 @@
 theme: jekyll-theme-cayman
 title: Melody
 description: Descubrí más. Escuchá mejor.
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
