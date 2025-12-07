@@ -42,4 +42,12 @@ La aplicación móvil está desarrollada con:
 
 ---
 
-Explora la documentación completa en las secciones **Guides & Manuals** y **Technical Documentation**.
+Explora la documentación completa:
+- [Guides & Manuals](./manuals.html)
+- [Technical Documentation](./tech_doc.html)
+
+## Documentación Detallada (Google Docs)
+
+- **[Manual de Usuario - App Mobile](https://docs.google.com/document/d/1U0W3MQc6WIKdXBGAWwmzi4fWSxFeJWCMZ1_3j6qBVd0/edit?usp=sharing)**
+- **[Manual de Usuario - Backoffice](https://docs.google.com/document/d/1OHMfG661fkqxLpDFXKGN3UXKqfS6ynTpEO4GZHUInZ4/edit?usp=sharing)**
+- **[Documentación Técnica Completa](https://docs.google.com/document/d/1qLUyJDwQrnOX4ZH4lwl-8M24HAj6hO-FlZev0WCVzg4/edit?usp=sharing)**
