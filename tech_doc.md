@@ -9,23 +9,7 @@ description: Technical Documentation.
 The complete technical documentation for Melody is available below.
 
 You can access it via:
-- **Google Docs**: [**View Documentation**](https://docs.google.com/document/d/1qLUyJDwQrnOX4ZH4lwl-8M24HAj6hO-FlZev0WCVzg4/edit?usp=sharing)
-- **Embedded viewer** (see below)
-
-### Architecture Overview
-
-
-#### Mobile Application
-- **Framework**: React Native with Expo
-- **Language**: TypeScript
-- **State Management**: React Context API (PlayerContext, AuthContext)
-- **Authentication**: Supabase Auth (email/password + federated with Google)
-- **Navigation**: React Navigation (Stack, Tabs, Modals)
-- **Audio Playback**: Expo AV
-- **Notifications**: Expo Notifications with deep linking
-
-#### Backend Services
-(to-do)
+- [**View Documentation**](https://docs.google.com/document/d/1qLUyJDwQrnOX4ZH4lwl-8M24HAj6hO-FlZev0WCVzg4/edit?usp=sharing)
 
 
 
@@ -34,6 +18,8 @@ You can access it via:
 
 _For detailed implementation, check the codebase on [GitHub](https://github.com/melody2c2025/)_
 
-<!-- Uncomment and add your Google Docs link when ready
-<iframe style="width:100%;height:800px;" src="YOUR_GOOGLE_DOCS_LINK_HERE"></iframe>
--->
+---
+
+**Melody** was made by [Tomas Amundarain](https://github.com/tomy07417), [Lautaro Barrionuevo](https://github.com/lebarrionuevo), [Bautista Corti](https://github.com/Sando-dev), [Cindy Hsieh](https://github.com/cindy1404hsieh) and [Martin Wainwright](https://github.com/wain02).
+
+

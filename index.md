@@ -8,7 +8,7 @@ description: About.
   <img src="./assets/logo.png" alt="Melody Logo">
 </p>
 
-**Melody** es una plataforma de streaming de música que te ayuda a descubrir más y escuchar mejor.\
+**Melody** es una plataforma de streaming de música que te ayuda a descubrir más y escuchar mejor.
 
 
 ## Características Principales
@@ -46,4 +46,4 @@ Explora la documentación completa en las secciones **Guides & Manuals** y **Tec
 
 ---
 
-**Melody** was made by [Lautaro Barrionuevo](https://github.com/lebarrionuevo), [Tomas Amundarain](https://github.com/tomy07417), [Cindy Hsieh](https://github.com/cindy1404hsieh), [Martin Wainwright](https://github.com/wain02) and [Bautista Corti](https://github.com/Sando-dev).
+**Melody** was made by [Tomas Amundarain](https://github.com/tomy07417), [Lautaro Barrionuevo](https://github.com/lebarrionuevo), [Bautista Corti](https://github.com/Sando-dev), [Cindy Hsieh](https://github.com/cindy1404hsieh) and [Martin Wainwright](https://github.com/wain02).

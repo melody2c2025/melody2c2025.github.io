@@ -24,7 +24,7 @@ We currently support only Android devices.
 
 ### Web Backoffice
 
-You can access the web backoffice from here: [**link**](https://backoffice-melody-url.com)
+You can access the web backoffice from here: [**link**](http://localhost:3000/)
 
 No installation required.
 
@@ -46,4 +46,4 @@ For technical details and API documentation, visit the [**Technical Documentatio
 
 ---
 
-**Melody** was made by [Lautaro Barrionuevo](https://github.com/lebarrionuevo), [Tomas Amundarain](https://github.com/tomy07417), [Cindy Hsieh](https://github.com/cindy1404hsieh), [Martin Wainwright](https://github.com/wain02) and [Bautista Corti](https://github.com/Sando-dev).
+**Melody** was made by [Tomas Amundarain](https://github.com/tomy07417), [Lautaro Barrionuevo](https://github.com/lebarrionuevo), [Bautista Corti](https://github.com/Sando-dev), [Cindy Hsieh](https://github.com/cindy1404hsieh) and [Martin Wainwright](https://github.com/wain02).
