@@ -8,6 +8,7 @@ description: Guides & Manuals.
 
 * [Installation Guide](#installation-guide)
 * [User Manual: Mobile App](#user-manual-mobile-app)
+* [User Manual: Backoffice](#user-manual-backoffice)
 
 ## Installation Guide
 
@@ -24,7 +25,7 @@ Install the APK on your Android device.\
 ### Getting Started
 
 #### 1. Register & Login
-- **Sign up** with email and password or use Google
+- **Sign up** with email and password or use GitHub
 - Choose your account type: **Oyente** (Listener) or **Artista** (Artist)
 - Complete the onboarding process to set your favorite genres and artists
 
@@ -108,6 +109,36 @@ Your artist profile automatically organizes:
 - Manage notification preferences (enable/disable by type)
 - Content filters (explicit content on/off)
 - Privacy settings for profile and playlists (public/private)
+
+---
+
+## User Manual: Backoffice
+
+### Access
+- **URL**: [Backoffice URL]
+- **Admin credentials**:
+  - Email: `adminmelody@gmail.com`
+  - Password: `12345`
+
+### Main Features
+
+#### User Management
+- View all registered users (listeners and artists)
+- User details: profile info, account status, activity metrics
+- Block/unblock users
+- Delete user accounts
+
+#### Catalog Management
+- Browse and manage all content (songs, albums, EPs, playlists)
+- View content details and metadata
+- Set content availability (available/unavailable)
+- Approve or remove flagged content
+
+#### Metrics & Analytics
+- User metrics: registrations, active users, engagement
+- Content metrics: plays, likes, most popular content
+- Artist metrics: top artists, release activity
+- Raw data export for detailed analysis
 
 ---
 
