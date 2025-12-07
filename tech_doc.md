@@ -9,7 +9,7 @@ description: Technical Documentation.
 The complete technical documentation for Melody is available below.
 
 You can access it via:
-- **Google Docs**: [**View Documentation**]
+- **Google Docs**: [**View Documentation**](https://docs.google.com/document/d/1qLUyJDwQrnOX4ZH4lwl-8M24HAj6hO-FlZev0WCVzg4/edit?usp=sharing)
 - **Embedded viewer** (see below)
 
 ### Architecture Overview
