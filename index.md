@@ -33,16 +33,10 @@ description: About.
 - **Administración de contenido**: Explora catálogo, gestiona disponibilidad y bloqueos con alcance
 - **Métricas**: Panel de métricas de usuarios con exportación
 
-## Tecnologías
-
-La aplicación móvil está desarrollada con:
-- **React Native** con **Expo** 
-- **TypeScript** 
-- **Supabase** 
-
 ---
 
-Explora la documentación completa en las secciones **Guides & Manuals** y **Technical Documentation**.
+- [Guides & Manuals](./manuals.html)
+- [Technical Documentation](./tech_doc.html)
 
 ---
 
