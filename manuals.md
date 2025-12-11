@@ -22,25 +22,6 @@ We currently support only Android devices.
 
 **Minimum version**: Android 8.0 (API level 26) or higher
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/melody2c2025/frontEnd-melody.git
-   ```
-
-2. Navigate to the expo-user-management folder:
-   ```
-   cd frontEnd-melody/expo-user-management
-   ```
-
-3. Install dependencies:
-   ```
-   npm install
-   ```
-
-4. Run the app:
-   ```
-   npx expo start
-   ```
 
 ### Web Backoffice
 1. Clone the repository:
