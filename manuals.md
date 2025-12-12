@@ -24,28 +24,8 @@ We currently support only Android devices.
 
 
 ### Web Backoffice
-1. Clone the repository:
-   ```
-   git clone https://github.com/melody2c2025/backoffice-melody.git
-   ```
 
-2. Navigate to the folder:
-   ```
-   cd backoffice-melody
-   ```
-
-3. Install dependencies:
-   ```
-   npm install
-   ```
-
-4. Run the development server:
-   ```
-   npm run dev
-   ```
-
-5. You can access the web backoffice from here: [**link**](http://localhost:3000/)
-
+You can access the web backoffice from here: [**link**](https://backoffice-melody-c9915j65v-wains-projects-6f19ac3f.vercel.app/)
 
 ---
 
