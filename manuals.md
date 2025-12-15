@@ -25,7 +25,7 @@ We currently support only Android devices.
 
 ### Web Backoffice
 
-You can access the web backoffice from here: [**link**]([https://backoffice-melody-c9915j65v-wains-projects-6f19ac3f.vercel.app/](https://backoffice-melody-9d2ad8d67fc6.herokuapp.com/))
+You can access the web backoffice from here: [**link**](https://backoffice-melody-9d2ad8d67fc6.herokuapp.com/)
 
 ---
 
